@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
+    background-color: #636669;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -80,7 +80,7 @@ body {
 }
 
 .rodape{
-    background-color: rgba(0, 255, 255, 0.575);
+    background-color: rgb(134, 4, 102);
     text-align: center;
 }
 
@@ -105,7 +105,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #015cf0;
+    background-color: #797979;
     color: white;
     display: flex;
     justify-content: space-around;
